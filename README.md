@@ -1,4 +1,5 @@
-# ganbot - мой бот для телеграма, который позволяет применять style transfer, pix2pix и генерацию изображений (последние 2 пункта не обучены до конца)
+# ganbot - мой бот для телеграма. 
+Он позволяет применять style transfer, pix2pix и генерацию изображений (последние 2 пункта не обучены до конца).
 ### [My NST notebook](https://colab.research.google.com/drive/1ASOWtY42q5enS1E3-fxhr7ESVlCFZdNU?usp=sharing)
 ### [My pix2pix notebook](https://colab.research.google.com/drive/1zCaa0Dwmdxpo7ANc8QrSHitH7pyLO2Wt?usp=sharing)
 ### [My CycleGAN](https://colab.research.google.com/drive/1zCaa0Dwmdxpo7ANc8QrSHitH7pyLO2Wt?usp=sharing)
